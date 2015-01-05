@@ -202,7 +202,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-  ('index', 'LibreOffice.tex', u'Краткое руководство по LibreOffice',
+  ('index', 'LibreOffice.tex', u' Русскоязычное сообщество LibreOffice',
    u'Dmitry Mazhartsev', 'manual'),
 ]
 
